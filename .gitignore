@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*~
+venv/
+.venv/
+env/
+output/
+gui_temp_input/
+Colorization/checkpoints/
+Face_Enhancement/checkpoints/
+Face_Detection/checkpoints/
+Global/checkpoints/
+debug*.png
+*.pth
+*.pt
+*.onnx
+.DS_Store
+
+# Research artifacts
+research_checkpoints/
+research_restored_output/
+research_test_input/
+research_test_output/
+ablation_temp_input/
+web_ui/node_modules/
+web_ui/.next/
